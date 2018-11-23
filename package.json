@@ -1,0 +1,27 @@
+{
+  "name": "babel-plugin-empty-import",
+  "version": "0.0.2",
+  "description": "",
+  "main": "./lib/index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-types": "^6.26.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FreemenL/babel-plugin-empty-import.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/FreemenL/babel-plugin-empty-import/issues"
+  },
+  "homepage": "https://github.com/FreemenL/babel-plugin-empty-import#readme",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "_from": "babel-plugin-empty-import@0.0.1",
+  "_resolved": "http://registry.npm.taobao.org/babel-plugin-empty-import/download/babel-plugin-empty-import-0.0.1.tgz"
+}
